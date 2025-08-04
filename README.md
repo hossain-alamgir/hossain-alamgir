@@ -43,7 +43,7 @@ I'm open to:
 - 🧠 TabTransformer with SHAP for Explainability  
 - 📈 Sales Trend Dashboards & ML Web Apps
 
-All projects are available on my GitHub: [github.com/aslamsikder](https://github.com/hossain-alamgir)  
+All projects are available on my GitHub: [github.com/hossain-alamgir](https://github.com/hossain-alamgir)  
 📄 [View My Resume](https://drive.google.com/file/d/1b3ARyI00f4c2F0j_uSJQG5Nj9oZAwitN/view)
 
 ---
