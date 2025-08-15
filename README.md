@@ -38,21 +38,21 @@ I'm open to:
 - 🧠 **Open-source projects** in the AI/ML ecosystem
 
 ## 🧑‍💻 Featured Projects
-- 🔍 Transformer-Based Purchase Prediction  
-- 📄 Agentic AI Document Validation System (LangChain + Open LLMs)  
-- 🧠 TabTransformer with SHAP for Explainability  
+- 🔍 Deeplearning-Based Recommendation System  
+- 📄 Data Visualization, Analysis using SAS, SPSS, and  Power BI
+- 🧠 Creating Dashboard and making a Decision using SAS Visual Analytics and Power BI. 
 - 📈 Sales Trend Dashboards & ML Web Apps
 
 All projects are available on my GitHub: [github.com/hossain-alamgir](https://github.com/hossain-alamgir)  
-📄 [View My Resume](https://drive.google.com/file/d/1b3ARyI00f4c2F0j_uSJQG5Nj9oZAwitN/view)
+
 
 ---
 
 ## 💬 Why Hire Me?
 
-✔️ Dedicated, analytical, and reliable with real-world problem-solving mindset  
+✔️ Dedicated, analytical, and reliable with a real-world problem-solving mindset  
 ✔️ Strong foundation in both theory and application of AI/ML  
-✔️ Published researcher with experience in supervised learning and explainable models  
+✔️ Researcher with experience in supervised learning and explainable models  
 ✔️ Effective communicator and certified trainer in AI, ML, and data science workflows
 
 
