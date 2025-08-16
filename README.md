@@ -58,7 +58,7 @@ All projects are available on my GitHub: [github.com/hossain-alamgir](https://gi
 
 📫 **Reach me at:**  
 [Email](mailto:alamgirhossain9@gmail.com) | [LinkedIn](https://www.linkedin.com/in/alamgir-hossain-54b4b0223/) | 
-📄 [Download My Resume](https://drive.google.com/file/d/1b3ARyI00f4c2F0j_uSJQG5Nj9oZAwitN/view)
+📄 [Download My Resume](https://docs.google.com/document/d/1fD6p-7LRCjqQuQ1G6-Ctr41wvSNr2KPq/edit)
 
 ---
 
