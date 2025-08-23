@@ -58,8 +58,8 @@ All projects are available on my GitHub: [github.com/hossain-alamgir](https://gi
 
 📫 **Reach me at:**  
 [Email](mailto:alamgirhossain9@gmail.com) | [LinkedIn](https://www.linkedin.com/in/alamgir-hossain-54b4b0223/) | 
-📄 [Download My Resume](https://drive.google.com/drive/u/1/folders/1ro048ReFwUslioSxK6CLG7VHYu2YqCxD)
+📄 [Download My Resume](https://drive.google.com/file/d/1X3WRtcBs8CS7fbkAdEu5pJUszWxacq5C/view?usp=sharing)
 
----
+
 
 _“Turning data into decisions and intelligence into impact.”_
